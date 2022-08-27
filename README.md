@@ -1,28 +1,29 @@
-# NewPortfolio
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.8.
+# 🍣 Meu Portfólio<br>
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## 🌳 Observação<br>
+Este portfólio é uma ropagem do portfólio de Iuri Silva, a quem mando um abraço pelo excelente trabalho.
 
-## Code scaffolding
+## 📚 Seções
+O site é composto por 3  diferentes seções:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **Seção Header:** Nele temos um avatar do meu github e um breve apresentação;
+- **Seção Sobre Mim:** Nessa seção tenho um apresentação de um avatar só que andando e uma descrição dizendo sobre mim e além disso, temos botão para baixar meu currículo;
+- **Seção Projetos:** Apresenta alguns projetos desenvolvidos e com link direto para os respectivos códigos no GitHub; (Em construção)
 
-## Build
+## 🛠 Tecnologias utilizadas
+Para o desenvolvimento deste site utilizei as seguintes tecnologias:
+- VS Code;
+- Angular;
+- SASS (e convertido para CSS3);
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## 📌 Ajustes e melhorias
+O site ainda está em desenvolvimento;
+---
 
-## Running unit tests
+<p align= center>
+🏰 Feito por <strong>José da  Silva</strong> <br>
+  <a href = "https://portfoliojosesilva.netlify.app">Link</a>
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-# newportfolio
+</p>
